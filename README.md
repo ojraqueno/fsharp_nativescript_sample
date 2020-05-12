@@ -4,7 +4,7 @@
 
 ##### With Visual Studio Community (recommended)
 
-1. Download [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) (recommended).
+1. Download [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/).
 2. Check "ASP.NET and web development". during installation.
 3. Download the [.NET Core SDK](https://dotnet.microsoft.com/download).
 4. Create the database by publishing the included database project. Update the connection string in `Data.fs`.
@@ -24,4 +24,6 @@
 
 ##### With an attached Android phone
 
-TODO
+1. Install [nodejs](https://nodejs.org/en/).
+2. Install the NativeScript CLI by running `npm install -g nativescript`.
+3. TODO
